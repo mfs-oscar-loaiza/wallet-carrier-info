@@ -1,0 +1,6 @@
+framework module carrier_info {
+  umbrella header "carrier_info-umbrella.h"
+
+  export *
+  module * { export * }
+}
